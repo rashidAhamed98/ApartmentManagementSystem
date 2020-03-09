@@ -7,7 +7,7 @@
 <title>JSP Page</title>
 </head>
 <body>
-<a href="admin/addEmployee.jsp">th</a>
+<a href="admin/addEmployee.jsp">the</a>
         <h1>Hello World!</h1>
 </body>
 </html>
