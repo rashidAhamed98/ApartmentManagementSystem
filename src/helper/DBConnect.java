@@ -11,7 +11,7 @@ public class DBConnect {
     
     private static DBConnect sc;
     private static Connection con;
-    private static String url="jdbc:mysql://localhost:3306";
+    private static String url="jdbc:mysql://localhost:3306/";
     private static String dbname ="sunshine_lk";
     private static String username="root";
     private static String password="";
