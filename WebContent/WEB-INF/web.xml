@@ -13,6 +13,19 @@
     </servlet-mapping>         
     
     
+     <servlet>
+<servlet-name>addRInforController</servlet-name>
+<servlet-class>controller.addRInforController</servlet-class>
+</servlet>
+    
+    
+    <servlet-mapping>
+        <servlet-name>addRInforController</servlet-name>
+        <url-pattern>/rentInformation</url-pattern>
+    </servlet-mapping> 
+    
+    
+    
     
      <welcome-file-list>
                     <welcome-file>home.jsp</welcome-file>
